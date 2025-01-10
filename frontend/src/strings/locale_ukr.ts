@@ -75,4 +75,4 @@ let locale_ukr: { [key: string]: string } = {
   "You lost": "Ви програли",
 }
 
-export default locale_ru
+export default locale_ukr
