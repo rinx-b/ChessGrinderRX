@@ -1,5 +1,4 @@
 let locale_ukr: { [key: string]: string } = {
-{
   "Participate": "Брати участь",
   "Tournament": "Турнір",
   "Tournaments": "Турніри",
